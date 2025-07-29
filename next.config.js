@@ -11,6 +11,6 @@ module.exports = withPWA({
   reactStrictMode: true,
   trailingSlash: true,
   images: {
-    domains: ['your-image-domain.com'], // optional
+    domains: ['placehold.co', 'maulidakurnia.vercel.app'],
   },
 });

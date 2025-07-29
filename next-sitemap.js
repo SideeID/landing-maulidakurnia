@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://www.maulidakurnia.my.id',
+  siteUrl: 'https://maulidakurnia.vercel.app',
   generateRobotsTxt: true,
   sitemapSize: 7000,
 };
