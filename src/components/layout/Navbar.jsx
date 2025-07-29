@@ -6,7 +6,7 @@ export default function Navbar() {
             <a href="#home" aria-label="Beranda" className="hover:text-white hover:bg-sky-500 px-3 py-1 rounded-xl transition">Beranda</a>
             <a href="#about" aria-label="Tentang" className="hover:text-white hover:bg-sky-500 px-3 py-1 rounded-xl transition">Tentang</a>
             <a href="#product" aria-label="Aktivitas" className="hover:text-white hover:bg-sky-500 px-3 py-1 rounded-xl transition">Produk</a>
-            <a href="#testimony" aria-label="Testimoni" className="hover:text-white hover:bg-sky-500 px-3 py-1 rounded-xl transition">Testimoni</a>
+            {/* <a href="#testimony" aria-label="Testimoni" className="hover:text-white hover:bg-sky-500 px-3 py-1 rounded-xl transition">Testimoni</a> */}
         </nav>
     )
 }
