@@ -8,13 +8,13 @@ const SEO = {
     openGraph: {
         type: 'website',
         locale: 'id_ID',
-        url: 'https://www.maulidakurnia.my.id/', 
+        url: 'https://maulidakurnia.vercel.app/', 
         site_name: defaultTitle,
         title: defaultTitle,
         description: defaultDescription,
         images: [
             {
-                url: 'https://www.maulidakurnia.my.id/og-image.jpg', 
+                url: 'https://maulidakurnia.vercel.app/og-image.jpg', 
                 width: 2550,
                 height: 945,
                 alt: defaultTitle,
